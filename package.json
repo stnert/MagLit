@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "crypto-js": "^4.1.1",
-    "firebase": "^9.17.1",
+    "firebase": "^10.1.0",
     "framer-motion": "^6.3.3",
     "http-status-codes": "^2.2.0",
     "monkey-typewriter": "^1.0.14",
